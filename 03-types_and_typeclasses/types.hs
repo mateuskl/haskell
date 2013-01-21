@@ -19,3 +19,5 @@ circumference r = 2 * pi * r
 
 circumference' :: Double -> Double  
 circumference' r = 2 * pi * r  
+
+main = putStrLn (show (circumference 3.0))
