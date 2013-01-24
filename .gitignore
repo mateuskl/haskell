@@ -1,7 +1,9 @@
-*~
-dist
-cabal-dev
-*.o
-*.hi
 *.chi
 *.chs.h
+*.elf
+*.o
+*.hi
+*~
+cabal-dev
+dist
+
